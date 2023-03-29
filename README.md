@@ -1,1 +1,1 @@
-# HW-6-SAN-FRAN-HOUSING
+- Jupyter notebook that contains analysis of the housing rental market data for San Francisco. Complete with professionally styled and formatted interactive visualizations
